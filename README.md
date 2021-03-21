@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekaridhi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekaridhi&count_private=true&show_icons=true&theme=gruvbox)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=malekaridhi)](https://github.com/malekaridhi/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=malekaridhi)](https://github.com/anuraghazra/github-readme-stats)
