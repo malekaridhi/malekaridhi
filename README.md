@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋,and welcome I am Malek Aridhi
   
    <h5 align="center"> a JavaScript web developer. Gained my knowledge from a 5 months intense training which made me embrace more the value of teamwork,
-   be more reliable, solid and self-aware 
+   be more reliable, solid and self-aware </h5>
   
   - 🔭 I’m currently working on improving my skills  
   - 💬 Ask me about whatever in your mind  
