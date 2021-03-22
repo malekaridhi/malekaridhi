@@ -3,7 +3,7 @@
 <h3 align="center"> a JavaScript web developer. </h3> 
  
    
-  ## I gained my knowledge from a 5 months intense training which made me embrace more the value of teamworkbe more reliable, solid and self-aware  
+  ## I gained my knowledge from a 5 months intense training which made me embrace more the value of teamwork be more reliable, solid and self-aware  
  
    
 <h3 align="left">Feel free to contact me :</h3>
