@@ -2,7 +2,8 @@
   
    <h3 align="left"> a JavaScript web developer. </h3> 
    
-   I gained my knowledge from a 5 months intense training which made me embrace more the value of teamworkbe more reliable, solid and self-aware
+   I gained my knowledge from a 5 months intense training 
+   which made me embrace more the value of teamworkbe more reliable, solid and self-aware
   - 💬 Ask me about whatever in your mind  
   <p align="right"> <img src="https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="love" width="200" height="200"/> </p> 
    
