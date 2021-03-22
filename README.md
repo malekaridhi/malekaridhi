@@ -4,7 +4,7 @@
  
    
   ## I gained my knowledge from a 5 months intense training which made me embrace more the value of teamworkbe more reliable, solid and self-aware  
-  <p align="center"> <img src="https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="love" width="700" height="300"/> </p> 
+ 
    
 <h3 align="left">Feel free to contact me :</h3>
 <p align="left">
