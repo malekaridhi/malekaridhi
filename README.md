@@ -6,10 +6,11 @@
   - 💬 Ask me about whatever in your mind  
   
    
-<h3 align="left">feel free to contact me :</h3>
+<h3 align="left">Feel free to contact me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/malek-aridhi-a011341a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Malek Aridhi" height="30" width="40" /></a>
 </p>
+<p align="write"> <img src="https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="love" width="100" height="100"/> </p> 
 <h3 align="left">Languages and Tools:</h3>
    <h5 ><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
