@@ -2,8 +2,7 @@
   
    <h3 align="left"> a JavaScript web developer. </h3> 
    
-   I gained my knowledge from a 5 months intense training 
-   which made me embrace more the value of teamworkbe more reliable, solid and self-aware
+  ## I gained my knowledge from a 5 months intense training which made me embrace more the value of teamworkbe more reliable, solid and self-aware
   - 💬 Ask me about whatever in your mind  
   <p align="right"> <img src="https://images.pexels.com/photos/4316738/pexels-photo-4316738.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="love" width="200" height="200"/> </p> 
    
@@ -21,6 +20,5 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> </h5>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malekaridhi&show_icons=true&locale=en&layout=compact" alt="malekaridhi" /></p>
+p>
 
