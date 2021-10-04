@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋,and welcome I am Malek Aridhi
+<h1 align="center"> Hi 👋and welcome I am Malek Aridhi
   
 <h3 align="center"> a JavaScript web developer. </h3> 
  
