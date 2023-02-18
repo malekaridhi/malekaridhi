@@ -9,7 +9,7 @@
 <h3 align="left">Feel free to contact me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/malek-aridhi-a011341a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Malek Aridhi" height="30" width="40" /></a>
-  <a href="[https://malekaridhi.herokuapp.com/](https://portfolio-rho-sable-82.vercel.app/)" target="blank"><h4 align="left">Portfolio</h4></a>
+ - 👨‍💻 my Portfolio is available at [https://portfolio-rho-sable-82.vercel.app/](https://portfolio-rho-sable-82.vercel.app/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
